@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ibat 01",
-    "currentPage": "inde.html",
+    "currentPage": "indexx.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,7 @@
       },
       "components": []
     },
-    "inde.html": {
+    "indexx.html": {
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "IBAT Web class",
